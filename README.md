@@ -1,16 +1,13 @@
-### Hi there 👋
+### Contributions
+- [Fixing lots of doctests in Rust](https://github.com/rust-lang/rust/pull/96094)
+- [VSCode vim plugin bugfix](https://github.com/VSCodeVim/Vim/pull/8533) (TypeScript)
+- [My first code refactor in Rust compiler](https://github.com/rust-lang/rust/pull/97609)
 
-<!--
-**Elliot-Roberts/Elliot-Roberts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Old Projects (only demonstration videos)
+- [Sudoku reader & solver](https://youtu.be/ApzdUKcGoEg) (Python)
+- PID marble balancer, [view through camera](https://youtu.be/N8149KjlDp8), [view directly](https://youtu.be/khTxOVdZbxM) (Python)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mildly Presentable Code I've Written
+- [Tool to convert logs of login & logout events into counts of concurrent users in labs (for the CAT)](https://gitlab.cat.pdx.edu/relliot_cat/lab-usage) (Rust)
+- [C++ header for displaying binary trees nicely](https://gitlab.cat.pdx.edu/relliot_cat/tree-print) (C++
+- [Web scraper for a friend, with lots of comments](https://github.com/Elliot-Roberts/shane_dota_data) (Python)
