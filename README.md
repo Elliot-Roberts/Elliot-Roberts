@@ -8,6 +8,6 @@
 - PID marble balancer, [view through camera](https://youtu.be/N8149KjlDp8), [view directly](https://youtu.be/khTxOVdZbxM) (Python)
 
 ### Mildly Presentable Code I've Written
-- [Tool to convert logs of login & logout events into counts of concurrent users in labs (for the CAT)](https://gitlab.cat.pdx.edu/relliot_cat/lab-usage) (Rust)
-- [C++ header for displaying binary trees nicely](https://gitlab.cat.pdx.edu/relliot_cat/tree-print) (C++)
+- [Tool to convert logs of login & logout events into counts of concurrent users in labs (for the CAT)](https://github.com/Elliot-Roberts/lab-usage) (Rust)
+- [C++ header for displaying binary trees nicely](https://github.com/Elliot-Roberts/tree-print) (C++)
 - [Web scraper for a friend, with lots of comments](https://github.com/Elliot-Roberts/shane_dota_data) (Python)
