@@ -2,6 +2,7 @@
 - [Fixing lots of doctests in Rust](https://github.com/rust-lang/rust/pull/96094)
 - [VSCode vim plugin bugfix](https://github.com/VSCodeVim/Vim/pull/8533) (TypeScript)
 - [My first code refactor in Rust compiler](https://github.com/rust-lang/rust/pull/97609)
+- [Talhelper bugfix](https://github.com/budimanjojo/talhelper/pull/585) (Go)
 
 ### Old Projects (only demonstration videos)
 - [Sudoku reader & solver](https://youtu.be/ApzdUKcGoEg) (Python)
